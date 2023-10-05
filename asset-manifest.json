@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grid-solver/static/css/main.653195c9.css",
+    "main.js": "/grid-solver/static/js/main.764c9a06.js",
+    "static/js/787.b3cd2f50.chunk.js": "/grid-solver/static/js/787.b3cd2f50.chunk.js",
+    "index.html": "/grid-solver/index.html",
+    "main.653195c9.css.map": "/grid-solver/static/css/main.653195c9.css.map",
+    "main.764c9a06.js.map": "/grid-solver/static/js/main.764c9a06.js.map",
+    "787.b3cd2f50.chunk.js.map": "/grid-solver/static/js/787.b3cd2f50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653195c9.css",
+    "static/js/main.764c9a06.js"
+  ]
+}
