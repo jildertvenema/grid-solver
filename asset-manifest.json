@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/grid-solver/static/css/main.ba28b43a.css",
+    "main.js": "/grid-solver/static/js/main.31b20437.js",
+    "static/js/945.868964c6.chunk.js": "/grid-solver/static/js/945.868964c6.chunk.js",
+    "index.html": "/grid-solver/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ba28b43a.css",
+    "static/js/main.31b20437.js"
+  ]
+}
